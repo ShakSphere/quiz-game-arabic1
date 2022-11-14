@@ -1,6 +1,11 @@
 # Readme
 
-<h1 align="center">Quiz Game</h1>
+<h1 align="center">Quiz Game - Arabic Edit</h1>
+
+<h2>Purpose of this edit:</h2>
+<h3>This edit was made due to the need to create a RTL oriented quiz app for a website e-learning site that I am working on, where Google Forms will default to your native language in terms of the text direction and this was causing formatting errors. 
+
+There are still some edits I would like to make in terms of the logic and the functions to improve this app (keeping in mind things like Google Forms), e.g. review of answers. </h3>
 
 <h3 >
 Click the buttons to answer the qustions
@@ -8,7 +13,7 @@ Click the buttons to answer the qustions
 
 <div align="center">
 <h1>
-<a href="https://quiz-question-project.herokuapp.com/">
+<a href="https://quiz-game-arabic1.vercel.app/">
 >>> Click for Demo<<<
 </a>
 </h1>
@@ -25,10 +30,12 @@ Click the buttons to answer the qustions
 <li>React</li>
 </ul>
 
-![screencapture-localhost-3000-2022-09-06-19_20_21](https://user-images.githubusercontent.com/99952793/188685988-37661558-3a8d-4b49-9b65-1a068e2d7d28.png)
+![image](https://user-images.githubusercontent.com/110363828/201780364-c022d989-aa1f-4a11-b316-3803a62564cb.png)
 
 
 ## Contact
+
+Original template:
 
 - GitHub [@AygunHajiyeva]([https://https](https://https/)://github.com/AygunHajiyeva)
 
