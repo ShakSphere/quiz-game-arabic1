@@ -40,7 +40,7 @@ Original template:
 - GitHub [@AygunHajiyeva]([https://https](https://https/)://github.com/AygunHajiyeva)
 
 Arabic edit:
-- GitHub [@ShakShere] (https://github.com/ShakSphere/)
+- GitHub [@ShakSphere] (https://github.com/ShakSphere/)
 
 
 # Getting Started with Create React App
