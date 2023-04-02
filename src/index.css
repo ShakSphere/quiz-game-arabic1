@@ -1,5 +1,9 @@
 @import url('https://fonts.googleapis.com/earlyaccess/notonaskharabicui.css');
 @import url('https://fonts.googleapis.com/css?family=Poppins');
+
+@-ms-viewport{
+  width: device-width;
+}
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Poppins', 'Noto Naskh Arabic UI';

@@ -5,14 +5,18 @@ body {
   background: linear-gradient(-38deg, purple, teal);
   direction: rtl;
   font-family: 'Poppins', 'Noto Naskh Arabic UI';
-  background-size: 200% 200%;
+  background-size: cover;
+  //background-size: 200% 200%;
   animation: verticalBreathing 15s ease infinite;
-  height: 100vh;
+  height: relative;
+  //height: 100vh;
   overflow: hidden;
   /*direction: rtl;*/
 }
 
-
+@-ms-viewport{
+  width: device-width;
+}
 @keyframes verticalBreathing {
   0% {
     background-position: 0% 0%;
@@ -39,7 +43,8 @@ body {
   flex-wrap: wrap;
   flex-direction: column;
   background-color: #0396c2;
-  width: 450px;
+  /* width: 450px; */
+  width: relative;
   transform: translate(-50%, -50%);
   top:50%;
   left: 50%;
